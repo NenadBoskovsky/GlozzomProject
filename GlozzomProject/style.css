@@ -1,0 +1,70 @@
+.slider1 {
+  height: 80vh;
+}
+.carousel .item {
+  height: 80vh;
+}
+.item img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  min-height: 80vh;
+}
+.flex {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  height: 80vh;
+  width: 50%;
+  padding-left: 10%;
+}
+.whitetxt {
+  color: white;
+}
+.icons {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  padding-top: 3%;
+  padding-bottom: 3%;
+}
+.divgs {
+  text-align: center;
+  padding-top: 3%;
+  padding-bottom: 3%;
+  background-image: url(lights.jpg);
+  top: 0;
+  color: white;
+  background-attachment: fixed;
+}
+.buton1 {
+  border: 1px solid #ff5e5e;
+  background-color: white;
+  color: #ff5e5e;
+}
+.textdiv {
+  padding-top: 1%;
+  padding-bottom: 1%;
+}
+.seewhatwedo {
+  text-align: center;
+  color: white;
+  padding-top: 1%;
+  padding-bottom: 1%;
+}
+.half-black {
+  background: rgba(0, 0, 0, 0.7);
+}
+.picture {
+  background-image: url(media.jpg);
+  background-attachment: fixed;
+}
+.pbot {
+  padding-bottom: 1%;
+}
+.video {
+  background: transparent;
+  border: none;
+}
